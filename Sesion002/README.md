@@ -46,7 +46,6 @@ df
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -167,14 +166,12 @@ df[['recamaras', 'baños']]
 
 <div>
 <style scoped>
-    .dataframe tbody tr th:only-of-type {
+    .dataframe tbody tr th {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -266,11 +263,9 @@ df
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -382,11 +377,9 @@ df.head(5)
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -549,11 +542,9 @@ df
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -751,11 +742,9 @@ df.describe()
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -859,11 +848,9 @@ df_subset
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -971,11 +958,9 @@ df_subset
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1071,11 +1056,9 @@ df[df['construccion']<150]
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1182,11 +1165,9 @@ df[(df.construccion<150) & (df.recamaras==2)]
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1282,11 +1263,9 @@ df.nlargest(4, 'recamaras')
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1462,11 +1441,9 @@ df
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1654,11 +1631,9 @@ df_agg
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1713,11 +1688,9 @@ df_pivote
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
     .dataframe thead th {
         text-align: right;
     }
@@ -1784,12 +1757,10 @@ df_L
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
-
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -1840,12 +1811,10 @@ df_R
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
-
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -1896,12 +1865,10 @@ df_i
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
-
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -1949,12 +1916,10 @@ df_o
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
-
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
@@ -2015,12 +1980,10 @@ df_left
     .dataframe tbody tr th:only-of-type {
         vertical-align: middle;
     }
-
-    .dataframe tbody tr th {
+.dataframe tbody tr th {
         vertical-align: top;
     }
-
-    .dataframe thead th {
+.dataframe thead th {
         text-align: right;
     }
 </style>
