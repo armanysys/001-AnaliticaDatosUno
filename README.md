@@ -12,13 +12,13 @@
 ## Contenido
 
 
-### 📊 Sesión 1 - [Introducción al análisis de datos](Sesion002/README.md). 
+### 📊 Sesión 1 - Introducción al análisis de datos.
 Descubre los fundamentos del análisis de datos y cómo puede transformar tu negocio.
 
-### 📈 Sesión 2 - Estructuras de datos
+### 📈 Sesión 2 - [Estructuras de datos](Sesion002/README.md).  
 Aprende sobre las diferentes estructuras de datos y su importancia en el análisis.
 
-### 🧹 Sesión 3 - Preparación de datos
+### 🧹 Sesión 3 - [Preparación de datos](Sesion003/README.md).
 Domina las técnicas de limpieza y preparación de datos para obtener resultados precisos.
 
 ### 📉 Sesión 4 - Métodos gráficos
