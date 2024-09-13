@@ -24,7 +24,7 @@ Domina las técnicas de limpieza y preparación de datos para obtener resultados
 ### 📉 Sesión 4 - [Visualización de datos](Sesion004/README.md).
 Explora los métodos gráficos para visualizar datos de manera efectiva.
 
-### 🔗 Sesión 5 - Relaciones entre variables
+### 🔗 Sesión 5 - [Relaciones entre variables](Sesion005/README.md).
 Analiza las relaciones entre diferentes variables y su impacto en los resultados.
 
 ### 📊 Sesión 6 - Comparación de grupos
