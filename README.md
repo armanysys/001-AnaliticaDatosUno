@@ -27,7 +27,7 @@ Explora los métodos gráficos para visualizar datos de manera efectiva.
 ### 🔗 Sesión 5 - [Relaciones entre variables](Sesion005/README.md).
 Analiza las relaciones entre diferentes variables y su impacto en los resultados.
 
-### 📊 Sesión 6 - Comparación de grupos
+### 📊 Sesión 6 - [Comparación de grupos](Sesion006/README.md).
 Compara diferentes grupos de datos para identificar patrones y tendencias.
 
 ### 🔍 Sesión 7 - Revisión de proyectos
