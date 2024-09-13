@@ -21,7 +21,7 @@ Aprende sobre las diferentes estructuras de datos y su importancia en el anális
 ### 🧹 Sesión 3 - [Preparación de datos](Sesion003/README.md).
 Domina las técnicas de limpieza y preparación de datos para obtener resultados precisos.
 
-### 📉 Sesión 4 - Métodos gráficos
+### 📉 Sesión 4 - [Visualización de datos](Sesion004/README.md).
 Explora los métodos gráficos para visualizar datos de manera efectiva.
 
 ### 🔗 Sesión 5 - Relaciones entre variables
