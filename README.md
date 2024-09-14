@@ -33,7 +33,7 @@ Compara diferentes grupos de datos para identificar patrones y tendencias.
 ### 🔍 Sesión 7 - [Actividad 2: Comparación de grupos](Sesion007/README.md).
 Revisa y mejora tus proyectos de análisis de datos con retroalimentación experta.
 
-### 📈 Sesión 8 - Análisis de regresión lineal
+### 📈 Sesión 8 - [Análisis de regresión lineal](Sesion008/README.md).
 Aprende a aplicar el análisis de regresión lineal para predecir resultados futuros.
 
 ### 📉 Sesión 9 - Selección de modelos de regresión
