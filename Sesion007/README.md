@@ -1,7 +1,5 @@
 # Actividad 2: Comparación de grupos
 
-Esta tarea fue bloqueada el 29 de febrero a las 23:59.
-
 El archivo `b08_practica` contiene las siguientes variables de un experimento en el cual se compararon dos campañas ('control' y 'test') para ventas en línea:
 
 - **Campaña**: Nombre de la campaña.
