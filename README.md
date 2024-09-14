@@ -30,7 +30,7 @@ Analiza las relaciones entre diferentes variables y su impacto en los resultados
 ### 📊 Sesión 6 - [Comparación de grupos](Sesion006/README.md).
 Compara diferentes grupos de datos para identificar patrones y tendencias.
 
-### 🔍 Sesión 7 - Revisión de proyectos
+### 🔍 Sesión 7 - [Actividad 2: Comparación de grupos](Sesion007/README.md).
 Revisa y mejora tus proyectos de análisis de datos con retroalimentación experta.
 
 ### 📈 Sesión 8 - Análisis de regresión lineal
