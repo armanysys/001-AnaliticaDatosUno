@@ -39,7 +39,7 @@ Aprende a aplicar el análisis de regresión lineal para predecir resultados fut
 ### 📉 Sesión 9 - [Selección de modelos de regresión](Sesion009/README.md).
 Descubre cómo seleccionar el mejor modelo de regresión para tus datos.
 
-### 📊 Sesión 10 - Análisis de conglomerados
+### 📊 Sesión 10 - [Análisis de conglomerados](Sesion010/README.md).
 Explora técnicas de análisis de conglomerados para agrupar datos de manera efectiva.
 
 ### 📚 Sesión 11 - Temas complementarios
