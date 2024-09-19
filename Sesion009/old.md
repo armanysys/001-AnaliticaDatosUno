@@ -2,6 +2,7 @@
 📁 Esta carpeta contiene 4 subtemas y una actividad.
 
 
+
 ## Contenido
 
 ### 📊 Sesión 9.1: Análisis de regresión: variables dicotómicas
