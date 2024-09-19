@@ -36,7 +36,7 @@ Revisa y mejora tus proyectos de análisis de datos con retroalimentación exper
 ### 📈 Sesión 8 - [Análisis de regresión lineal](Sesion008/README.md).
 Aprende a aplicar el análisis de regresión lineal para predecir resultados futuros.
 
-### 📉 Sesión 9 - Selección de modelos de regresión
+### 📉 Sesión 9 - [Selección de modelos de regresión](Sesion009/README.md).
 Descubre cómo seleccionar el mejor modelo de regresión para tus datos.
 
 ### 📊 Sesión 10 - Análisis de conglomerados
