@@ -42,5 +42,5 @@ Descubre cómo seleccionar el mejor modelo de regresión para tus datos.
 ### 📊 Sesión 10 - [Análisis de conglomerados](Sesion010/README.md).
 Explora técnicas de análisis de conglomerados para agrupar datos de manera efectiva.
 
-### 📚 Sesión 11 - Temas complementarios
+### 📚 Sesión 11 - [Temas complementarios](Sesion011/README.md).
 Profundiza en temas avanzados y complementarios del análisis de datos.
