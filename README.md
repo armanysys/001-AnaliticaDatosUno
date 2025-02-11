@@ -1,46 +1,47 @@
-# 001 Analitica de Datos I
+# 001 Data Analytics I
 
 📁 **In each directory**, you will find a detailed description of each session along with the corresponding Python scripts and the necessary data to run the examples.
 
 #### 📂 Session X Directory
 - 📓 `.ipynb` files (Jupyter Notebooks)
-- 📘 `.md` README files for each python file.
+- 📘 `.md` README files for each Python file.
 - 📂 Data Directory
   - 📊 Data files (`.xlsx`, `.csv`, `.xlmx`, etc.)
   - 🏞️ Images
 
-## Contenido
+## Content
 
+### 📊 Session 1 - Introduction to Data Analysis
+Discover the fundamentals of data analysis and how it can transform your business.
 
-### 📊 Sesión 1 - Introducción al análisis de datos.
-Descubre los fundamentos del análisis de datos y cómo puede transformar tu negocio.
+### 📈 Session 2 - [Data Structures](Sesion002/README.md)
+Learn about different data structures and their importance in analysis.
 
-### 📈 Sesión 2 - [Estructuras de datos](Sesion002/README.md).  
-Aprende sobre las diferentes estructuras de datos y su importancia en el análisis.
+### 🧹 Session 3 - [Data Preparation](Sesion003/README.md)
+Master the techniques of data cleaning and preparation to achieve accurate results.
 
-### 🧹 Sesión 3 - [Preparación de datos](Sesion003/README.md).
-Domina las técnicas de limpieza y preparación de datos para obtener resultados precisos.
+### 📉 Session 4 - [Data Visualization](Sesion004/README.md)
+Explore graphical methods to visualize data effectively.
 
-### 📉 Sesión 4 - [Visualización de datos](Sesion004/README.md).
-Explora los métodos gráficos para visualizar datos de manera efectiva.
+### 🔗 Session 5 - [Relationships Between Variables](Sesion005/README.md)
+Analyze the relationships between different variables and their impact on results.
 
-### 🔗 Sesión 5 - [Relaciones entre variables](Sesion005/README.md).
-Analiza las relaciones entre diferentes variables y su impacto en los resultados.
+### 📊 Session 6 - [Group Comparison](Sesion006/README.md)
+Compare different data groups to identify patterns and trends.
 
-### 📊 Sesión 6 - [Comparación de grupos](Sesion006/README.md).
-Compara diferentes grupos de datos para identificar patrones y tendencias.
+### 🔍 Session 7 - [Activity 2: Group Comparison](Sesion007/README.md)
+Review and improve your data analysis projects with expert feedback.
 
-### 🔍 Sesión 7 - [Actividad 2: Comparación de grupos](Sesion007/README.md).
-Revisa y mejora tus proyectos de análisis de datos con retroalimentación experta.
+### 📈 Session 8 - [Linear Regression Analysis](Sesion008/README.md)
+Learn to apply linear regression analysis to predict future outcomes.
 
-### 📈 Sesión 8 - [Análisis de regresión lineal](Sesion008/README.md).
-Aprende a aplicar el análisis de regresión lineal para predecir resultados futuros.
+### 📉 Session 9 - [Regression Model Selection](Sesion009/README.md)
+Discover how to select the best regression model for your data.
 
-### 📉 Sesión 9 - [Selección de modelos de regresión](Sesion009/README.md).
-Descubre cómo seleccionar el mejor modelo de regresión para tus datos.
+### 📊 Session 10 - [Cluster Analysis](Sesion010/README.md)
+Explore cluster analysis techniques to group data effectively.
 
-### 📊 Sesión 10 - [Análisis de conglomerados](Sesion010/README.md).
-Explora técnicas de análisis de conglomerados para agrupar datos de manera efectiva.
+### 📚 Session 11 - [Complementary Topics](Sesion011/README.md)
+Delve into advanced and complementary topics in data analysis.
 
-### 📚 Sesión 11 - [Temas complementarios](Sesion011/README.md).
-Profundiza en temas avanzados y complementarios del análisis de datos.
+Let me know if you need any further assistance!
